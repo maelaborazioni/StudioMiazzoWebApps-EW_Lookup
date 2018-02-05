@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tabtitolistudiospecifiche",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"36C073B8-6CCC-4A1E-8C78-AE9E21469BE2"
+}
+],
+name:"lkp_titolostudiospecifiche",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"B3945FF7-7CD0-4737-A4FC-F790580B2F39"

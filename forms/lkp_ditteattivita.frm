@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/ditte_attivita",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"DCD5B1C3-1532-4AF3-AD2E-C5732408E77E"
+}
+],
+name:"lkp_ditteattivita",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"E62E2777-976D-46F4-95AB-9368A325558B"

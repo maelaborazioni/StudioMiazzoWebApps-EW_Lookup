@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabtipoentebilaterale",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"4C71265A-4C29-4ED9-8902-3CE97C97D1E7"
+}
+],
+name:"lkp_entebilaterale",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F4F449D8-E39F-45CC-BB26-E89A02D972BD"

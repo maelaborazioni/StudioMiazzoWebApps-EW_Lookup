@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2utenti_og",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"2995EF3C-E2E2-4DD8-AB80-06D9E56F883E"
+}
+],
+name:"lkp_operatori",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"909D3C69-1059-48B7-9431-ABD36744F02B"

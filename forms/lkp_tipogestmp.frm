@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabgestionemp",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"DBE20632-117E-40DA-931F-67D8E1AD7F0C"
+}
+],
+name:"lkp_tipogestmp",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E155FB43-18DE-434B-A0FE-40E0AF1B79DE"

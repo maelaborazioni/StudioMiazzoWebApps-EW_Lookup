@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabtipofestivita",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"331F766A-BCB4-4670-8EB7-3CB0C020FC9A"
+}
+],
+name:"lkp_tipofestivita",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"DEF6C028-192C-43A6-97C9-C2AAD72C59FF"

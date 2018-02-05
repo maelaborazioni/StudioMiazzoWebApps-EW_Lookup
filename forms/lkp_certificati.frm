@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/storico_tipicertificato",
+extendsID:"-1",
+items:[
+{
+height:310,
+partType:5,
+typeid:19,
+uuid:"17D5BA36-8BD4-442E-B0EB-CD430B4005C2"
+}
+],
+name:"lkp_certificati",
+showInMenu:true,
+size:"578,310",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4F2D89E4-140A-4CD8-A3F0-710123674DC8"

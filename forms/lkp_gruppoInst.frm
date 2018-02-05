@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2sediinstallazione",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"BC9221AA-F98C-4516-9AD2-6616059CF74F"
+}
+],
+name:"lkp_gruppoInst",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E58B58B8-D237-41B4-9C08-A09494A2AFF8"

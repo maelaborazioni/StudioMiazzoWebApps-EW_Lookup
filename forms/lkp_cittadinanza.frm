@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tabstatiesteri",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6538AAF1-8CB6-4A1A-8EE4-7586F9AFE601"
+}
+],
+name:"lkp_cittadinanza",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"A32A99CC-06E6-4858-9CFE-70CF9A4A2990"

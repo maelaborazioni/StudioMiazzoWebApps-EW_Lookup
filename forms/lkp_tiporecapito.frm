@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_tipirecapito",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"94EC132D-BB18-4728-B478-84E5172CB3AD"
+}
+],
+name:"lkp_tiporecapito",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"1B8BBF76-6CFD-4471-8F95-554C5C2DCFE6"

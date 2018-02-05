@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_sedi",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"0BAC37A8-3C1A-4BBA-9265-1F173DFA6259"
+}
+],
+name:"lkp_festapatrforz",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E22951E8-9A1A-42B4-9EED-1E00EC69911A"

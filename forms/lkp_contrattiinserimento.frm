@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_contrattiinserimento",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"3CAB747C-9145-43A5-8B4C-0480F7AAA0AF"
+}
+],
+name:"lkp_contrattiinserimento",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"F0BA31F4-8ABB-44FA-A4E4-2E6739948310"

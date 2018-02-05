@@ -1,0 +1,14 @@
+dataSource:"db:/ma_anagrafiche/ditte_ratei",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"F8FA6636-141B-40AF-B67F-8F709133DF67"
+}
+],
+name:"lkp_ratei",
+styleName:"leaf_style",
+typeid:3,
+uuid:"9BBC1D15-0D55-4C35-9540-698FBA5233D9"

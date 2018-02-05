@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/gruppi_classificazionidettaglio",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A6B8AA46-FE92-461C-B0B6-3144A8951E8D"
+}
+],
+name:"lkp_gruppi_classificazionidettaglio",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"133B5F9E-DB04-48AC-BF5C-6A247FF078D3"

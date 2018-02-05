@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tipodiunitadimisura",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"AD04C1B9-7783-468D-AB18-0734DE604DEA"
+}
+],
+name:"lkp_unitamisura",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"2E615702-B382-4517-974A-B77814B51C4D"

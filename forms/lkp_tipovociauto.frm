@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabtipovociauto",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"6849E296-638C-4F4B-B703-E8083D2D9E95"
+}
+],
+name:"lkp_tipovociauto",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"59D3E112-1135-4F89-A79E-A9CCDF36AC51"

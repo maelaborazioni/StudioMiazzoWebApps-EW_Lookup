@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/gruppi",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"E35F8FD3-AC64-4B55-8399-23C257611CEA"
+}
+],
+name:"lkp_gruppi",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"7FEAD0A2-7B04-4E2C-8D5A-2A634D175DCB"

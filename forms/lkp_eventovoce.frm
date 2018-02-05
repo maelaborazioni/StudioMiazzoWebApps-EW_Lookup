@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2eventi",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"38A6BB30-2D2A-45DB-B201-EB78F697E860"
+}
+],
+name:"lkp_eventovoce",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"6131BFA6-7629-4CDA-B5D9-6405379B89E1"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2timbratura",
+extendsID:"-1",
+items:[
+{
+height:200,
+partType:5,
+typeid:19,
+uuid:"CC68E9CF-9C08-4D95-B8D6-4305E76B2C1E"
+}
+],
+name:"lkp_modificatimbr",
+showInMenu:true,
+size:"450,200",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F02E50AC-A173-4108-A3E9-47D72DB38B34"

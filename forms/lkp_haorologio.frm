@@ -1,0 +1,15 @@
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"D0637897-08FA-4BA4-B015-A13C1B891341"
+}
+],
+name:"lkp_haorologio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"8DA1AB72-9764-4360-9F99-3963B136B7AF"

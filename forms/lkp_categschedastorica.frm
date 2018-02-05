@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_schedastorica",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"12B95F56-0965-41AA-BCBD-7AA1634AD83C"
+}
+],
+name:"lkp_categschedastorica",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"AC10E921-496B-4002-BC0E-ADDDBCCC044E"

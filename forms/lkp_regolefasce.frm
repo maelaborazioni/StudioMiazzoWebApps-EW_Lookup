@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2regolefasce",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"62D93029-8150-4535-B425-A5882B1E565A"
+}
+],
+name:"lkp_regolefasce",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"FF3505A5-52FC-4721-BEC9-9A3CFE550CC2"

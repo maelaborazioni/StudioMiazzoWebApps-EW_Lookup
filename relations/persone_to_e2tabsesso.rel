@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2tabsesso",
+items:[
+{foreignColumnName:"codice",operator:0,primaryDataProviderID:"sesso",typeid:23,uuid:"DA4A500D-880B-402A-9C55-9009666BEC01"}
+],
+joinType:1,
+name:"persone_to_e2tabsesso",
+primaryDataSource:"db:/ma_anagrafiche/persone",
+typeid:22,
+uuid:"88CBDD6F-8EB6-4AE8-B313-42583C063FF9"

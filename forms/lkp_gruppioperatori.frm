@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_gestione",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"3249AB9F-B818-4200-B101-E09CFDF9DE9D"
+}
+],
+name:"lkp_gruppioperatori",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"BD3D2F0B-3962-41BB-B593-ACAE442A262A"

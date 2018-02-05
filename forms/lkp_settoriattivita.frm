@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_settoriattivita",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"4AF59ACD-1189-4547-83B9-25B8B94F02AC"
+}
+],
+name:"lkp_settoriattivita",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F1E4E2A9-83AA-4945-9538-4C376F1BF1E8"

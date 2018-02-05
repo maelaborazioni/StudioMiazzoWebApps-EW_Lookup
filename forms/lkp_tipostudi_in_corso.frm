@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tipidistudi",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0D137E7F-26A5-42A4-BAE6-4F8D3DB15805"
+}
+],
+name:"lkp_tipostudi_in_corso",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"04682E33-C2C8-4B52-80D0-716BC679A418"

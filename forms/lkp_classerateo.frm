@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2rateiclassi",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"DF29F1E3-52A4-4846-B3A8-CF1748438AC5"
+}
+],
+name:"lkp_classerateo",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"5A775AD5-E9EF-4CD1-9B26-1B6762E1EBBF"

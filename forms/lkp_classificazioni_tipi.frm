@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_classificazionidettaglio",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"F4F18EB8-7AB8-4B5B-9966-0B001AD7AABE"
+}
+],
+name:"lkp_classificazioni_tipi",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E2D14434-84FA-4929-A06C-4C3FC08F786C"

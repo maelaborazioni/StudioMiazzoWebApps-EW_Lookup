@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_sedi",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"FBEDE075-205E-4B13-A791-801A1DEF33E9"
+}
+],
+name:"lkp_dittesedilavoro",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"982A333B-35AB-4BF6-90D5-09FA8625C417"

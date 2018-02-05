@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_sediinps",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"4D311976-9489-4CF0-BF42-D53693EC927C"
+}
+],
+name:"lkp_sediinps",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"382A008E-3042-45DA-BF9F-16D21C2C4D9C"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabcomuniitalia",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"EEBF8AC9-2648-47C2-BC92-531BE65B2906"
+}
+],
+name:"lkp_comune",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"7D59E750-1A51-4A8E-B170-6599332A6090"

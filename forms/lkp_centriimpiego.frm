@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabcentriimpiego",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"C615F1CE-C2FC-4178-BCEF-60701D25C6C3"
+}
+],
+name:"lkp_centriimpiego",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"EF05F4D4-692D-47FD-B309-EB7ADF436F99"

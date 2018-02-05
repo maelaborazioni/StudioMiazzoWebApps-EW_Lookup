@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/ditte_inailsedi",
+encapsulation:60,
+items:[
+{
+height:122,
+partType:5,
+typeid:19,
+uuid:"99B324D0-AEE2-4965-B809-EEAF2F1BD2B4"
+}
+],
+name:"lkp_dittesediinail",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"E4E242C6-EA49-48C7-BE6C-6AF801B3ADD0"

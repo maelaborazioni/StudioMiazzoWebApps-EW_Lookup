@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabstatocivile",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"B60A546C-CEBE-44C2-B44F-AE2C2E84F1C0"
+}
+],
+name:"lkp_statocivile",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"538812B8-03DC-48A9-B464-C30FC9D53FD8"

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_presenze/e2tabstatocivile",
+items:[
+{foreignColumnName:"codice",operator:0,primaryDataProviderID:"codstatocivile",typeid:23,uuid:"96F347D8-9AC5-436C-B403-595E27501586"}
+],
+name:"persone_statocivile_to_e2tabstatocivile",
+primaryDataSource:"db:/ma_anagrafiche/persone_statocivile",
+typeid:22,
+uuid:"5FD3D331-CF58-48F4-B767-47C2449356AE"

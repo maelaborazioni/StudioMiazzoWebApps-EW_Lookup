@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabfestenazionali",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"9CEFFF92-ED8D-4B3F-B623-97153EF6059E"
+}
+],
+name:"lkp_festivita",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E517F99F-90DF-4164-8F6E-0A95AADF91DC"

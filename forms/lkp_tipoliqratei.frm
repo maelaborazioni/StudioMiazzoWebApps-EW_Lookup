@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tabtipoliquidratei",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2AFFFE8D-E333-4B89-826D-9BE3F8287DA5"
+}
+],
+name:"lkp_tipoliqratei",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"CEDD89CC-1F72-4FC9-A47D-2065F7CDEDBD"

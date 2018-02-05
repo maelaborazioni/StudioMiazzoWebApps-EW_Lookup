@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/eventiproprieta",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"C632D9C6-C10F-424B-82E3-09FC53A038C5"
+}
+],
+name:"lkp_eventiproprieta",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D9DDD263-DAE0-4554-B3FF-DD9147AC1666"

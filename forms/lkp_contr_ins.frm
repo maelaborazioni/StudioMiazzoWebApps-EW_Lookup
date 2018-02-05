@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabcontrattiinserimento",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"01BEA3C5-3253-4B6C-82A2-DF8012B20C5E"
+}
+],
+name:"lkp_contr_ins",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"7D2A4F4A-599D-4B65-B0FD-71322F7D6D5D"

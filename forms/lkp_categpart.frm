@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_categorieparticolari",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"1EE7B3A8-46EA-4714-9F3F-0C49C9DA183C"
+}
+],
+name:"lkp_categpart",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"98A36173-2EDD-4C85-990A-0533E5196FD0"

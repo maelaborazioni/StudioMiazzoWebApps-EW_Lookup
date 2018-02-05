@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabtiposoggetto",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"485932BB-751F-49D7-BE7C-A3043532FEE9"
+}
+],
+name:"lkp_tipo_soggetto",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"B8BD1235-25C5-4FAE-9098-4D33779256FD"

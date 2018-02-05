@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_tipiturno",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2371F9B2-000C-4608-A71C-8317F094A1F7"
+}
+],
+name:"lkp_tipiturno",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"DFCD3E1E-5994-42DB-96F2-DC5B21E2CD44"

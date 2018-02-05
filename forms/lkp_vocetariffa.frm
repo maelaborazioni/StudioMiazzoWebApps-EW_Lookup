@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_inailvocitariffa",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"288CC51A-ADB2-45A8-9082-BCB9747D4664"
+}
+],
+name:"lkp_vocetariffa",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"EAABCC2D-FF4E-41D2-9C88-6CE0AEA91359"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2regole",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"6E31FBFE-9DED-423F-8D4A-4D999591C585"
+}
+],
+name:"lkp_regoleorarie",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"AF209AC3-DCAB-4D88-818D-6C4D5D1E2289"

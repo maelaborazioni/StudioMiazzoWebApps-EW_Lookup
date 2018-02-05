@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tc_livelli",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"546DAFFB-16CE-4240-A370-9B8452F8EE4C"
+}
+],
+name:"lkp_livello",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"CF41B952-BAA5-47CE-81C8-610ABCA5ECEA"

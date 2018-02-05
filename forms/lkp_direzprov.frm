@@ -1,0 +1,15 @@
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"E4F94D57-E394-40B7-A3D9-A29EFDE156D7"
+}
+],
+name:"lkp_direzprov",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4BC9ADEC-A8F2-4A8A-82E9-A9908B6E9658"

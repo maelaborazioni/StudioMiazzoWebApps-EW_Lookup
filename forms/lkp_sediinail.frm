@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_sediinail",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"94348356-A29D-4CDF-B4AD-4DBF1DD0C800"
+}
+],
+name:"lkp_sediinail",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F2A9873C-55B2-46DD-A6F5-BA07FB0DCBE2"

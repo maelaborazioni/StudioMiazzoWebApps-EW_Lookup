@@ -1,0 +1,17 @@
+dataSource:"db:/ma_anagrafiche/lavoratori",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"BEFE9E33-8DE6-40CF-A355-77E4194BE48D"
+}
+],
+name:"lkp_dipendenti",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"835A0345-AC9D-4CF0-8E3D-A8415D29D4A4",
+view:3

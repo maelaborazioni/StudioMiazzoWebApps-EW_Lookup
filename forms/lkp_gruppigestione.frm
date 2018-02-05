@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/ditte_presenzegruppigestione",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"3A7BCCD6-65EA-43E0-BE77-A4B899E00462"
+}
+],
+name:"lkp_gruppigestione",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"C27C0826-6464-4B26-A107-847E1A878173"

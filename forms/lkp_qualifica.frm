@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabqualifiche",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"940B0C64-CB35-475E-8DDD-0401DEBD35DD"
+}
+],
+name:"lkp_qualifica",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"3A06AA2F-CC1F-4DB6-ACF5-3159FF264978"

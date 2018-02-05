@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2fo_straordinari",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"718CE42D-03EE-4FE5-AAC8-83F052A297A9"
+}
+],
+name:"lkp_straordinari",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"5B19FFE3-DEDD-4C51-A403-935A70ADE533"

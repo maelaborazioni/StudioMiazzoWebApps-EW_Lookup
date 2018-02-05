@@ -1,0 +1,14 @@
+dataSource:"db:/ma_presenze/e2eventiclassi",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"31A304A4-57FF-4213-9091-0D6803C7EA89"
+}
+],
+name:"lkp_eventiclassi",
+styleName:"leaf_style",
+typeid:3,
+uuid:"9914D967-5FF5-449E-BC21-4FF05098E5C6"

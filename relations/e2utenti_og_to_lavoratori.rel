@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:false,
+foreignDataSource:"db:/ma_anagrafiche/lavoratori",
+items:[
+{foreignColumnName:"idlavoratore",operator:0,primaryDataProviderID:"iddiprif",typeid:23,uuid:"FD95759B-A738-425B-B11F-2A6803B860D5"}
+],
+joinType:0,
+name:"e2utenti_og_to_lavoratori",
+primaryDataSource:"db:/ma_presenze/e2utenti_og",
+typeid:22,
+uuid:"87D1014B-BB1A-4EBD-B59E-F7291EC4B019"

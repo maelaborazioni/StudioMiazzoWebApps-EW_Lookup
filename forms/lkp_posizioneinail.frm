@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_inailposizioni",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"58D81068-99C4-4FB1-93CB-7A3479F4C609"
+}
+],
+name:"lkp_posizioneinail",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E6C5A138-DC13-481C-8FA5-91ECDC4B4E51"

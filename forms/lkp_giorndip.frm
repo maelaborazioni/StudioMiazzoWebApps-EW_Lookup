@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/lavoratori",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"A3AD19CD-8965-4CE5-A55B-34D925FFE429"
+}
+],
+name:"lkp_giorndip",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"0B10EDB4-57A9-4CD9-8F31-EA72593978AD"

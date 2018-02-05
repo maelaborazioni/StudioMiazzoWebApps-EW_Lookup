@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabtipipagamento",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"1EDBCE0E-2580-4F72-A6A7-6EAD7F85F5E1"
+}
+],
+name:"lkp_tipopagamento",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D4BBE355-338C-4A86-A8DB-D61FB34FF550"

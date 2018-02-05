@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tabtitolistudio",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"203D1C29-6C10-4756-BCA5-8F552F6D4365"
+}
+],
+name:"lkp_titolostudio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"6174C713-A952-464D-A2A8-C67B9ECB210B"

@@ -1,0 +1,15 @@
+dataSource:"db:/ma_presenze/e2tabnaturagiuridica",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"87681C0A-FB86-4453-94ED-9E7580C2A5B5"
+}
+],
+name:"lkp_natura_giuridica",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"8D70E4DF-FCE7-45EC-9D2A-6863AD902FEC"

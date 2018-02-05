@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/gruppi_classificazioni",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"56996A2C-7C30-4417-8747-B284C707E7F8"
+}
+],
+name:"lkp_gruppi_classificazioni",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"030287D7-A6AC-4CA2-9A86-839BA8A89680"

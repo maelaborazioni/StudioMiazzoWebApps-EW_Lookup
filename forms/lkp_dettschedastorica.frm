@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_schedastoricadettaglio",
+items:[
+{
+height:100,
+partType:5,
+typeid:19,
+uuid:"4870606D-E51F-4BF8-BCF0-7C515AFF7424"
+}
+],
+name:"lkp_dettschedastorica",
+onRenderMethodID:"-1",
+showInMenu:true,
+size:"640,100",
+styleName:"leaf_style",
+typeid:3,
+uuid:"FCA083B5-69AB-4D94-BDEF-C1C4EC182A59"
